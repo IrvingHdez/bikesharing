@@ -6,7 +6,7 @@ With the data of a bikesharing service in NYC extract the user's habbits
 ## Results
 ### Story
 
-[story](https://github.com/IrvingHdez/bikesharing/blob/main/img/6-bikesharing-story.PNG)
+![story](https://github.com/IrvingHdez/bikesharing/blob/main/img/6-bikesharing-story.PNG)
 
 
 ## Summary
